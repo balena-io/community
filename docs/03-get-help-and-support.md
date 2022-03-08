@@ -14,6 +14,8 @@ You can message any of the balena team either in the forums group or on a privat
 
 **Ayan Pahwa - Developer Advocate (India)**
 * Email: ayan@balena.io
+* Office hours: IST Timezone
+* Get in touch with me to discuss about HomeAutomation, robotics, microcontrollers, running community events and meet-ups. Feel free to bring beer 🍺
 
 **Lizzie Epton - Marketing & Outreach (UK)**
 * Email: lizzie@balena.io
