@@ -59,7 +59,7 @@ For the most ambitious community members, we invite you to contribute your amazi
 ### 6. Explore events
 Check out our events calendar, we have all of the events or conferences we are attending listed here as well as events and meetups that are being hosted by our community members.
 
-EVENTS CALENDAR WILL BE HOSTED HERE
+<iframe src="https://calendar.google.com/calendar/embed?src=resin.io_3ekbvuvvkunfotl3e502mhsl60%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 If you are attending or hosting an event and planning to speak about balena, [submit your event]() to our events calendar and at the same time you can apply for support to attend or swag to giveaway.
 
