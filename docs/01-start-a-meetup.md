@@ -19,13 +19,13 @@ If you are passionate about something, anything at all, chances are you want to 
  - [ ] **Decide on what to call your meetup**
         Keep it simple, if you are creating an IoT meetup, other meetups around the world are simply called ‘IoT [your Location]’ e.g. IoT London, IoT North
  - [ ] **Create a logo for your community**
-        Creating an IoT meetup? Many IoT meetups around the world use a standard logo format, use [our template]() and [Canva](https://www.canva.com/) (free online graphics software) to create yours. 
+        Creating an IoT meetup? Many IoT meetups around the world use a standard logo format, use [our template](https://community.balena.io/assets/start-a-meetup-resources/iot-meetup-logo-guidelines.md) and [Canva](https://www.canva.com/) (free online graphics software) to create yours. 
  - [ ] **Create a virtual space for your community**
         We recommend using [meetup.com](https://www.meetup.com/) if you are creating a local community, if your meetup is going to be virtual and reach a global audience we recommend creating social media pages or a forum to keep in touch with your members outside of your events and using [Eventbrite](https://www.eventbrite.co.uk/) to register members for each event.
 
 
 ## Checklist to run a meetup 
-You can find an shortened version of this checklist with just the action items [here]().
+You can find an shortened version of this checklist with just the action items [here](https://community.balena.io/assets/start-a-meetup-resources/meetup-checklist.xlsx).
 
 ### Schedule 
 
@@ -58,12 +58,12 @@ You can find an shortened version of this checklist with just the action items [
 ### Registration
 
 - [ ] **Create an event somewhere your community can register to attend**
-        We recommend meetup.com for local meetups, eventbrite for a global meetup, or google forms if you are looking to bootstrap and need a free tool. Use [our copy template]() to get your event set up with a list of questions you might want your attendees to answer when they register.
+        We recommend meetup.com for local meetups, eventbrite for a global meetup, or google forms if you are looking to bootstrap and need a free tool. Use [our copy template](https://community.balena.io/assets/start-a-meetup-resources/eventbrite-copy-template.md) to get your event set up with a list of questions you might want your attendees to answer when they register.
 
 ### Promotion Plan 
 
 - [ ] **Share the event in a newsletter announcement**
-        If you are just starting a community, you might not have an email list to promote to, but after the first event, make sure you let all your previous attendees know when your next event will be via email. Check out our [email template here.]()
+        If you are just starting a community, you might not have an email list to promote to, but after the first event, make sure you let all your previous attendees know when your next event will be via email. Check out our [email template here.](https://community.balena.io/assets/start-a-meetup-resources/meetup-email-templates.md)
 - [ ] **Share on social media**
         If you have created social media accounts (a variation of Twitter, Facebook, LinkedIn, Instagram, Youtube Social) you can encourage your community to follow those pages so they will receive updates from you. You can also post on your own social media and encourage your community to share to reach a wider audience and grow your meetup.
 - [ ] **Share on forums**
@@ -72,13 +72,13 @@ You can find an shortened version of this checklist with just the action items [
 ### Email and Communication 
 
 - [ ] **Registration confirmation email** 
-        Platforms like Eventbrite will send an email to confirm registration automatically but if you want to send an additional confirmation email or using a platform which doesn’t send one, [check out our email templates]() to get an idea of what to include. We recommend using Mailchimp, they are free to use when you send fewer than 10,000 emails a month, really easy to set up and automatically include list management features to make sure you are legally and GDPR compliant. You could include an ‘add to calendar’ button in your email [like this open source tool](https://github.com/carlsednaoui/add-to-calendar-buttons) on GitHub which will auto-generate the code needed for you.
+        Platforms like Eventbrite will send an email to confirm registration automatically but if you want to send an additional confirmation email or using a platform which doesn’t send one, [check out our email templates](https://community.balena.io/assets/start-a-meetup-resources/meetup-email-templates.md) to get an idea of what to include. We recommend using Mailchimp, they are free to use when you send fewer than 10,000 emails a month, really easy to set up and automatically include list management features to make sure you are legally and GDPR compliant. You could include an ‘add to calendar’ button in your email [like this open source tool](https://github.com/carlsednaoui/add-to-calendar-buttons) on GitHub which will auto-generate the code needed for you.
 - [ ] **Event reminder email in the run up to the event**
-        Just in case your community didn’t put the event on their calendars and need a reminder it’s always good practice to send an email reminder. We recommend sending one 1 day before the event. Check out our [email template here.]()
+        Just in case your community didn’t put the event on their calendars and need a reminder it’s always good practice to send an email reminder. We recommend sending one 1 day before the event. Check out our [email template here.](https://community.balena.io/assets/start-a-meetup-resources/meetup-email-templates.md)
 
 ### Post Event
 
 - [ ] **Process giveaways (if the event was virtual and you couldn't share swag on the day)**
-        Use [our template spreadsheet]() to gather the personal information you need to post giveaways and keep track of who has received what.
+        Use [our template spreadsheet](https://community.balena.io/assets/start-a-meetup-resources/template-swag-giveaways.md) to gather the personal information you need to post giveaways and keep track of who has received what.
 - [ ] **Email attendees to share information with them** 
-        Let your community know how to continue the discussion (a forum or discord link), where to find the recordings of the session, how they could give feedback, suggest or volunteer to deliver a future session etc. Use our email template here.
+        Let your community know how to continue the discussion (a forum or discord link), where to find the recordings of the session, how they could give feedback, suggest or volunteer to deliver a future session etc. [Use our email template here.](https://community.balena.io/assets/start-a-meetup-resources/meetup-email-templates.md)
