@@ -32,7 +32,7 @@ You can find an shortened version of this checklist with just the action items [
 - [ ] **Set date & time**
         Pick a time when most of your community is likely to be free, i.e 7pm-9pm local time on a weekday. We also recommend setting the date for the next event to share during the meetup so your members can get the date in their calendars.
 - [ ] **Decide on format (speakers / workshop etc) and set schedule for the event**
-        If you are looking for an informative or interactive session to get your started, take a look at our [workshop and presentation templates.]() We don't expect or want your meetup to only talk about balena, but we are here to support you and hope that one of our workshops would be a fun session. You can also request a balena team member to speak at your event or for hardware and swag to run one of our sessions by emailing hello@balena.io.
+        If you are looking for an informative or interactive session to get your started, take a look at our [workshop and presentation templates.](https://community.balena.io/assets/presentation-decks) We don't expect or want your meetup to only talk about balena, but we are here to support you and hope that one of our workshops would be a fun session. You can also request a balena team member to speak at your event or for hardware and swag to run one of our sessions by emailing hello@balena.io.
 - [ ] **Invite & confirm speakers if necessary**
 - [ ] **Decide whether you are going to do any swag giveaways**
 - [ ] **Get in touch with balena to add to add your event to their Events Calendar**
