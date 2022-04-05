@@ -1,4 +1,4 @@
-![logo](https://community.balena.io/logos/balena/logo horizontal/dark/balena_logo_dark.png)
+![logo](https://raw.githubusercontent.com/balena-io/community/2f692ade6eec0ad48c4c73508f611d4f4f19fe91/assets/logos/balena/Logo%20horizontal/Dark/balena_logo_dark.png)
 
 Welcome to the balena community repo. A place to find out how to get involved in the balena community and all the resources you could need to create your own IoT community meetup.
 
