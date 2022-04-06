@@ -2,11 +2,6 @@
 
 You can message any of the balena team either in the forums group or on a private forums message but if you aren't sure who to talk to, or want to get in touch with any of us via email, this is the team: 
 
-**David Tischler - Developer Advocate (USA)**
-* Email: david@balena.io
-* Office hours: 
-* Get in touch with me to discuss the Ambassador program in general, your project builds and how we can showcase them (I especially love computer vision and self-driving technology), any assets or artifacts you need for Meetups and presentations.
-
 **Marc Pous - Developer Advocate (Spain)**
 * Email: marc@balena.io
 * Office hours: 11am - 7pm UTC
