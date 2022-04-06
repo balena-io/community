@@ -4,17 +4,17 @@ You can message any of the balena team either in the forums group or on a privat
 
 **Marc Pous - Developer Advocate (Spain)**
 * Email: marc@balena.io
-* Office hours: 11am - 7pm UTC
+* Office hours: Thursday 3:30-4:30 UTC
 * Get in touch with me to discuss balena, LoRaWAN, cellular connectivity, ML use cases, business models, interesting events and communities, and more.
 
 **Ayan Pahwa - Developer Advocate (India)**
 * Email: ayan@balena.io
-* Office hours: IST Timezone
+* Office hours: Tuesday 9:30-11:30 UTC
 * Get in touch with me to discuss about HomeAutomation, robotics, microcontrollers, running community events and meet-ups. Feel free to bring beer 🍺
 
 **Lizzie Epton - Marketing & Outreach (UK)**
 * Email: lizzie@balena.io
-* Office hours: 
+* Office hours: Wednesday 16:00-18:00 UTC
 * Get in touch with me to discuss the Ambassador program in general, running competitions, hosting events, expensing or any other resources you might need (I'm still learning the technical ropes so I probably can't help fix any code but I'm great at organisation!)
 
 **Andrew Nhem - Content Strategy Lead**
