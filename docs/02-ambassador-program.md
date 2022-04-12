@@ -21,7 +21,7 @@ After you have officially joined the ambassador program you will be invited to t
 
 * Announce to the world that you are now a balena Ambassador! - In the Assets folder of this repo you can find our official logo, sticker and some social media graphics templates, download whatever you need and add it to your profile, an announcement post or any materials you use or create related to balena. If you would like a signed certificate to prove your membership of the balena Ambassador program please reach out and we will create a unique one for you. 
 
-* Add yourself and a profile to the [get help and support](https://raw.githubusercontent.com/balena-io/community/master/docs/03-get-help-and-support.md) page in this repo so that members of the community working on a specific challenge can reach out to you as a leader in the balena community for support. Share your expertise, interests and what you are willing to help community members with. as well as a way to reach out to you. 
+* Add yourself and a profile to the [get help and support](https://github.com/balena-io/community/blob/master/docs/03-get-help-and-support.md) page in this repo so that members of the community working on a specific challenge can reach out to you as a leader in the balena community for support. Share your expertise, interests and what you are willing to help community members with. as well as a way to reach out to you. 
 
 ## About the ambassador monthly meetups 
 Each month we have a meetup scheduled in the Ambassadors calendar which you will be invited to, these are hosted on google meet and are an opportunity to catch up with the whole team as well as:
