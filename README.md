@@ -61,13 +61,13 @@ Check out our events calendar, we have all of the events or conferences we are a
 
 EVENTS CALENDAR WILL BE HOSTED HERE
 
-If you are attending or hosting an event and planning to speak about balena, [submit your event]() to our events calendar and at the same time you can apply for support to attend or swag to giveaway.
+If you are attending or hosting an event and planning to speak about balena, [submit your event](https://balena.typeform.com/to/Zepuzolm) to our events calendar and at the same time you can apply for support to attend or swag to giveaway.
 
 ### 7. Host your own event or meetup
-No IoT meetup in your local area but want to meet other like minded developers? Check out our ['Start your own meetup']() checklist and resources, reach out for support.
+No IoT meetup in your local area but want to meet other like minded developers? Check out our ['Start your own meetup'](https://raw.githubusercontent.com/balena-io/community/master/docs/01-start-a-meetup.md) checklist and resources, reach out for support.
 
 ### 8. Become an Ambassador
-We have set up the Ambassador Program to recognize and empower community members who have made outstanding contributions to the balena ecosystem. Our goal: to continue building with balena and to inspire our community. Find out more about our ambassadors in our [here.]()
+We have set up the Ambassador Program to recognize and empower community members who have made outstanding contributions to the balena ecosystem. Our goal: to continue building with balena and to inspire our community. Find out more about our ambassadors in our [here.](https://raw.githubusercontent.com/balena-io/community/master/docs/02-ambassador-program.md)
 
 Applications to join our fantastic team of ambassadors are now open! So, if you’re a balena developer building IoT and edge projects, participating in our community, fixing bugs via GitHub, and/or helping out balena users, and you want to get more involved, let us know by filling out [this form.](https://balena.typeform.com/to/NaY1nG24)
 

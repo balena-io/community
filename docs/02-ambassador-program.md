@@ -17,11 +17,11 @@ After you have officially joined the ambassador program you will be invited to t
 
 * Introduce yourself on the forums: login to the forums and check out [this thread](https://forums.balena.io/t/ambassador-intros/267161/16) Say hi, tell everyone a bit about yourself and what you enjoy working on.
 
-* Review the [[Ambassador Guidelines|https://github.com/balena-io/ambassadors/wiki/Ambassador-Guidelines]] which is our version of a code of conduct.
+* Review the [Ambassador Guidelines](https://forums.balena.io/t/about-the-ambassadors-ambassador-guidelines/249395/3) which is our version of a code of conduct.
 
 * Announce to the world that you are now a balena Ambassador! - In the Assets folder of this repo you can find our official logo, sticker and some social media graphics templates, download whatever you need and add it to your profile, an announcement post or any materials you use or create related to balena. If you would like a signed certificate to prove your membership of the balena Ambassador program please reach out and we will create a unique one for you. 
 
-* Add yourself and a profile to the [get help and support]() page in this repo so that members of the community working on a specific challenge can reach out to you as a leader in the balena community for support. Share your expertise, interests and what you are willing to help community members with. as well as a way to reach out to you. 
+* Add yourself and a profile to the [get help and support](https://raw.githubusercontent.com/balena-io/community/master/docs/03-get-help-and-support.md) page in this repo so that members of the community working on a specific challenge can reach out to you as a leader in the balena community for support. Share your expertise, interests and what you are willing to help community members with. as well as a way to reach out to you. 
 
 ## About the ambassador monthly meetups 
 Each month we have a meetup scheduled in the Ambassadors calendar which you will be invited to, these are hosted on google meet and are an opportunity to catch up with the whole team as well as:
@@ -55,6 +55,6 @@ For more information, please refer to our [Terms of Service.](https://www.balena
 
 ## Useful Links
 
-* How to apply for hardware for a new project or event demo
-* How to submit expenses and what can you expense balena for
+* How to apply for hardware for a new project or event demo - More information can be found [here](https://forums.balena.io/t/about-the-ambassadors-ambassador-guidelines/249395/3)
+* How to submit expenses and what can you expense balena for - More information can be found [here](https://forums.balena.io/t/about-the-ambassadors-ambassador-guidelines/249395/3)
 * Know anyone who you think would be a great balena Ambassador? Send them [this form](https://balena.typeform.com/to/NaY1nG24) to register their interest
