@@ -57,4 +57,4 @@ For more information, please refer to our [Terms of Service.](https://www.balena
 
 * How to apply for hardware for a new project or event demo - More information can be found [here](https://forums.balena.io/t/about-the-ambassadors-ambassador-guidelines/249395/3)
 * How to submit expenses and what can you expense balena for - More information can be found [here](https://forums.balena.io/t/about-the-ambassadors-ambassador-guidelines/249395/3)
-* Know anyone who you think would be a great balena Ambassador? Send them [this form](https://balena.typeform.com/to/NaY1nG24) to register their interest
+* Know anyone who you think would be a great balena Ambassador? Send them [this form](https://app.pipefy.com/public/form/z6tunpV3) to register their interest
