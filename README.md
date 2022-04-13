@@ -69,7 +69,7 @@ No IoT meetup in your local area but want to meet other like minded developers? 
 ### 8. Become an Ambassador
 We have set up the Ambassador Program to recognize and empower community members who have made outstanding contributions to the balena ecosystem. Our goal: to continue building with balena and to inspire our community. Find out more about our ambassadors in our [here.](https://github.com/balena-io/community/blob/master/docs/02-ambassador-program.md)
 
-Applications to join our fantastic team of ambassadors are now open! So, if you’re a balena developer building IoT and edge projects, participating in our community, fixing bugs via GitHub, and/or helping out balena users, and you want to get more involved, let us know by filling out [this form.](https://balena.typeform.com/to/NaY1nG24)
+Applications to join our fantastic team of ambassadors are now open! So, if you’re a balena developer building IoT and edge projects, participating in our community, fixing bugs via GitHub, and/or helping out balena users, and you want to get more involved, let us know by filling out [this form.](https://app.pipefy.com/public/form/z6tunpV3)
 
 ### 9. Share your projects on social media
 We love seeing what you've been working on, tag us on so we can share it with the rest of the balenda community on social media or in our monthly newsletter. You can find us on: 
