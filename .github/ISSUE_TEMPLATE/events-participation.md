@@ -19,6 +19,8 @@ Name of the event
 
 Meetup, conference, workshop, expo etc
 
+## Focus / Event Nice / Target Audience 
+
 ## Medium
 
 Online, Offline, Hybrid 
