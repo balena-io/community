@@ -1,7 +1,7 @@
 ---
 name: Events Participation
 about: Use this template to submit an event detail
-title: "[EVENT] "
+title: "[DATE] "
 labels: ''
 assignees: ''
 
