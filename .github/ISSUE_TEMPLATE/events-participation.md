@@ -11,11 +11,11 @@ assignees: ''
 -----------------------
 # Prerequisites
 
-balena encourages community members and team-mates to attend and talk at relevant events, meetups and conferences. Use this template to submit about an upcoming event and if you're willing to present something there - talk, project, booth etc. We will add the event to our social calendar. You can submit the events even if you're not planning to attend it and we will add it to our crowdsourced event calendar for more eyes to see. 
-
-----^ delete this section before submitting issue
+balena encourages community members and team-mates to attend and talk at relevant events, meetups and conferences. Use this template to submit about an upcoming event and if you're willing to present something there - talk, project, booth etc. You can submit the events even if you're not planning to attend it and we will add it to our crowdsourced event calendar for more eyes to see. 
 
 After creating the issue add the card to [this kanban board](https://github.com/balena-io/community/projects/1) for easy tracking. Once you attended the event add details, summary, learning in comments section before closing the issue. The sensitive data can be added to a google drive sheet and hyperlinked.
+
+----^ delete this section before submitting issue
 
 -----------------------
 
